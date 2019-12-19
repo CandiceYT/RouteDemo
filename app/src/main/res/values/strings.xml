@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RouteDemo</string>
+    <string name="driving_avoid_congestion">躲避拥堵</string>
+    <string name="driving_save_money">避免收费</string>
+    <string name="driving_no_highways">不走高速</string>
+    <string name="driving_highways_first">高速优先</string>
 </resources>
